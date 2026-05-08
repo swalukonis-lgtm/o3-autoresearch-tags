@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "version": "2026Q2",
+  "updated_at": "2026-05-08T15:52:29Z",
+  "active_tag_sets": {
+    "Tech (anchor)": [
+      "1.Tech",
+      "2.Tech",
+      "3.Tech",
+      "4.Tech"
+    ],
+    "First Contact": [
+      "1.First Contact",
+      "2.Second Conatct",
+      "3.Third Contact",
+      "4.Fourth Contact"
+    ],
+    "New": [
+      "1.New",
+      "2.New",
+      "3.New",
+      "4.New"
+    ],
+    "Divest": [
+      "1.Divest",
+      "2.Divest",
+      "3.Divest",
+      "4.Divest"
+    ]
+  },
+  "deprecated_tag_sets": {}
+}
