@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "version": "2026Q2",
-  "updated_at": "2026-05-12T14:50:39Z",
+  "updated_at": "2026-05-12T15:54:41Z",
   "active_tag_sets": {
     "Tech (anchor)": [
       "1.Tech",
@@ -28,7 +28,8 @@
       "4.Divest"
     ],
     "TechFocus": [
-      "1.TechFocus-2026Q2"
+      "1.TechFocus-2026Q2",
+      "2.TechFocus-2026Q2"
     ]
   },
   "deprecated_tag_sets": {}
