@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "version": "2026Q2",
-  "updated_at": "2026-05-12T16:28:22Z",
+  "updated_at": "2026-05-12T19:46:41Z",
   "active_tag_sets": {
     "Tech (anchor)": [
       "1.Tech",
@@ -9,11 +9,11 @@
       "3.Tech",
       "4.Tech"
     ],
-    "First Contact": [
-      "1.First Contact",
-      "2.Second Conatct",
-      "3.Third Contact",
-      "4.Fourth Contact"
+    "Outreach": [
+      "1.Outreach-2026Q2",
+      "2.Outreach-2026Q2",
+      "3.Outreach-2026Q2",
+      "4.Outreach-2026Q2"
     ],
     "New": [
       "1.New",
@@ -40,5 +40,16 @@
       "4.TechDivest-2026Q2"
     ]
   },
-  "deprecated_tag_sets": {}
+  "deprecated_tag_sets": {
+    "First Contact": {
+      "tags": [
+        "1.First Contact",
+        "2.Second Conatct",
+        "3.Third Contact",
+        "4.Fourth Contact"
+      ],
+      "deprecated_at": "2026-05-12T19:46:41Z",
+      "replaced_by": "Outreach"
+    }
+  }
 }
